@@ -1,2 +1,2 @@
 # laker-tech-dept
-This is Next.js -powered single page web application, supported by a Django/Python back-end. It was created to help manage the Laker tech department's processes, devices, etc.
+This is Next.js-powered single page web application that is supported by a Django/Python back-end. It was created to help manage and automate some of the more monotonous daily operations within the Laker School's Tech department.
